@@ -13,3 +13,15 @@ results
 
 npm-debug.log
 node_modules
+
+*/node-log.log
+!.gitignore
+.project
+.settings/
+**/*.svn
+*.svn
+*.sublime-project
+*.sublime-workspace
+*.swp
+.DS_Store
+.idea
