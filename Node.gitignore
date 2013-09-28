@@ -25,3 +25,4 @@ node_modules
 *.swp
 .DS_Store
 .idea
+.netrwhist
