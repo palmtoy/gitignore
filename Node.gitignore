@@ -6,6 +6,7 @@ lib-cov
 *.out
 *.pid
 *.gz
+*.exe
 
 pids
 logs
@@ -26,6 +27,5 @@ node_modules
 .DS_Store
 .idea
 .netrwhist
-.exe
 tags
 
