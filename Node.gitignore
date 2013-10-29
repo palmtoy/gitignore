@@ -23,6 +23,7 @@ node_modules
 *.sublime-project
 *.sublime-workspace
 *.swp
+*.swo
 .DS_Store
 .idea
 .netrwhist
