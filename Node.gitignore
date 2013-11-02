@@ -28,4 +28,7 @@ node_modules
 .idea
 .netrwhist
 tags
-
+pkg
+bin
+code.google.com
+*.pb.*
