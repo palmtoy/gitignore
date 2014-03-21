@@ -33,4 +33,5 @@ bin
 code.google.com
 *.pb.*
 build
+*.vpk
 
