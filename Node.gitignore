@@ -1,7 +1,6 @@
 lib-cov
 *.seed
 *.log
-*.csv
 *.dat
 *.out
 *.pid
@@ -35,4 +34,5 @@ bin
 code.google.com
 *.pb.*
 build
+*.vpk
 
