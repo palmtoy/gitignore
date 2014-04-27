@@ -7,6 +7,8 @@ lib-cov
 *.gz
 *.exe
 *.user
+*.pro
+*.o
 
 pids
 logs
