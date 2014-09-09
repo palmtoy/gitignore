@@ -38,4 +38,6 @@ code.google.com
 build
 *.vpk
 global.json
+local.jsone
+client_gam/Source/Assets/BundleManager/Resources/*
 
