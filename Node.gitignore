@@ -41,5 +41,4 @@ global.json
 local.jsone
 client_gam/Source/Assets/BundleManager/Resources/*
 *.unity
-*.prefab
 
