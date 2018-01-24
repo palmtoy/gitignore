@@ -11,3 +11,8 @@
 *.lai
 *.la
 *.a
+
+# protobuf files
+*.pb.h
+*.pb.cc
+
