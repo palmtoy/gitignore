@@ -16,3 +16,34 @@
 *.pb.h
 *.pb.cc
 
+Debug
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables
+*.exe
+*.out
+*.app
+*.tlog
+*.opensdf
+*.log
+*.pdb
+*.map
+*.sdf
+*.suo
+*.vcxproj.user
