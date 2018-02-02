@@ -17,6 +17,7 @@
 *.pb.cc
 
 Debug
+Bin
 
 # Prerequisites
 *.d
