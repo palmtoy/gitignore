@@ -12,10 +12,6 @@
 *.la
 *.a
 
-# protobuf files
-*.pb.h
-*.pb.cc
-
 Debug
 Bin
 Build
