@@ -44,3 +44,5 @@ client_gam/Source/Assets/BundleManager/Resources/*
 
 Java/*
 
+.vscode/*
+
