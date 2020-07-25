@@ -43,6 +43,7 @@ client_gam/Source/Assets/BundleManager/Resources/*
 *.unity
 
 Java/*
+.vscode/
 
 .vscode/*
 
