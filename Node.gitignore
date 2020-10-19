@@ -18,6 +18,7 @@ npm-debug.log
 node_modules
 
 */node-log.log
+*.log.*
 !.gitignore
 .project
 .settings/
