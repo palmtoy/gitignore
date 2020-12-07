@@ -46,4 +46,5 @@ Java/*
 .vscode/
 
 .vscode/*
+package-lock.json
 
