@@ -40,6 +40,7 @@ build
 *.vpk
 global.json
 local.jsone
+config/local.json
 *.unity
 
 Java/*
